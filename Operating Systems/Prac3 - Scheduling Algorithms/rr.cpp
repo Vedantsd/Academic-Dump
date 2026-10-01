@@ -1,5 +1,3 @@
-// Code for round robin (RR) scheduling algorithm in C++
-
 #include <iostream>
 using namespace std;
 
